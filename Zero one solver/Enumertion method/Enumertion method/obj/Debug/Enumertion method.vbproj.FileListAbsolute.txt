@@ -1,0 +1,33 @@
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\bin\Debug\Enumertion method.exe.config
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\bin\Debug\Enumertion method.exe
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\bin\Debug\Enumertion method.pdb
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\bin\Debug\Enumertion method.xml
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\bin\Debug\ExpressionEvaluator.dll
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\bin\Debug\MaterialSkin.dll
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\obj\Debug\Enumertion method.vbprojResolveAssemblyReference.cache
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\obj\Debug\Enumertion_method.Form1.resources
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\obj\Debug\Enumertion_method.Resources.resources
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\obj\Debug\Enumertion method.vbproj.GenerateResource.Cache
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\obj\Debug\Enumertion method.exe
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\obj\Debug\Enumertion method.xml
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\obj\Debug\Enumertion method.pdb
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\bin\Debug\Z.Expressions.Eval.dll
+c:\users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\bin\Debug\Z.Expressions.Eval.xml
+C:\Users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\bin\Debug\Enumertion method.exe.CodeAnalysisLog.xml
+C:\Users\medot\documents\visual studio 2013\Projects\Enumertion method\Enumertion method\bin\Debug\Enumertion method.exe.lastcodeanalysissucceeded
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\bin\Debug\Enumertion method.exe.config
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\bin\Debug\Enumertion method.exe
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\bin\Debug\Enumertion method.pdb
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\bin\Debug\Enumertion method.xml
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\bin\Debug\ExpressionEvaluator.dll
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\bin\Debug\MaterialSkin.dll
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\bin\Debug\Z.Expressions.Eval.dll
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\bin\Debug\Z.Expressions.Eval.xml
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\obj\Debug\Enumertion method.vbprojAssemblyReference.cache
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\obj\Debug\Enumertion_method.Form1.resources
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\obj\Debug\Enumertion_method.Resources.resources
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\obj\Debug\Enumertion method.vbproj.GenerateResource.cache
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\obj\Debug\Enumertion method.vbproj.CopyComplete
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\obj\Debug\Enumertion method.exe
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\obj\Debug\Enumertion method.xml
+D:\3Programming\Completed\Zero one solver\Enumertion method\Enumertion method\obj\Debug\Enumertion method.pdb
